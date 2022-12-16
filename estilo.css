@@ -9,6 +9,9 @@ A - 16px
 
 */
 
+/*===================================Fontes===================================*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Caveat&family=Poppins:wght@300&display=swap');
+
 /*===================================Breakpoints Gerais===================================/
 
 @media (min-width:320px) { smartphones, portrait iPhone, portrait 480x320 phones (Android) }
@@ -98,6 +101,7 @@ body {
 	background-image: url('galeria/bg_inicio.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
+	font-family: 'Poppins', sans-serif;
 }
 
 .container {
@@ -113,6 +117,7 @@ body {
 	justify-content: flex-start;
 	margin-bottom: 50px;
 	font-size: 12px;
+	font-family: 'Caveat', cursive;
 }
 
 .content {
@@ -126,7 +131,8 @@ body {
 
 .title_text_contet {
 	margin-bottom: 30px;
-	font-size: 50px;
+	font-size: 80px;
+	font-family: 'Anton', sans-serif;
 }
 
 .div_newsletter {
