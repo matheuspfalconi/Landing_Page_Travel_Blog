@@ -12,3 +12,11 @@ Fictional Landing Page created with the purpose of filling out the portfolio. Us
 Languages used:
 
 Html and CSS
+
+# Preview
+
+![Captura de Tela 2023-01-05 às 18 54 54](https://user-images.githubusercontent.com/33550514/210887431-7269c20b-6378-419d-9ebe-1e34b07ca564.png)
+
+# Author
+
+<a href="https://github.com/matheuspfalconi">Matheus Falconi</a>
