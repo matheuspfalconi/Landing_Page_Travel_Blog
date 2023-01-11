@@ -15,7 +15,13 @@ Html and CSS
 
 # Preview
 
+- Desktop
+
 ![Captura de Tela 2023-01-05 às 18 54 54](https://user-images.githubusercontent.com/33550514/210887431-7269c20b-6378-419d-9ebe-1e34b07ca564.png)
+
+- Smartphones
+
+![Captura de Tela 2023-01-11 às 20 28 36](https://user-images.githubusercontent.com/33550514/211940077-6da669c8-f572-4094-b648-b6741816448b.png)
 
 # Author
 
